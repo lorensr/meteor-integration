@@ -1,4 +1,4 @@
-**[Documentation](https://www.apollographql.com/docs/react/recipes/meteor.html)**
+**[Documentation](https://www.apollographql.com/docs/react/integrations/meteor/)**
 
 ## Contributing 
 
